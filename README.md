@@ -5,7 +5,7 @@ This analysis will enable identifying up-selling and cross-selling opportunities
 ![](images5.jpg) 
 
 ## Project Learning Opportunities:
-Dive deep into a robust analysis of Customer Lifetime Value segmentation at NexaSat using SQL. This project presents a unique chance to uncover actionable insights for up-selling and cross-selling opportunities with the telecom industry. By leveraging data-driven strategies and SQL proficiency, maximizing revenue potential and elevating customer engagement. This project promises invaluable learning in both advanced SQL techniques and strategic decision-making within the telecommunication sector.
+Dive deep into a robust analysis of Customer Lifetime Value segmentation at NexaSat using SQL. This project presents a unique chance to uncover actionable insights for up-selling and cross-selling opportunities within the telecom industry. By leveraging data-driven strategies and SQL proficiency, maximizing revenue potential and elevating customer engagement. This project promises invaluable learning in both advanced SQL techniques and strategic decision-making within the telecommunication sector.
 
 ## Key learning (Learning Skills)
 - SQL Proficiency
@@ -64,7 +64,10 @@ PostgreSQL is used for data manipulation and analysis.
 - Segmentation: Assign customers to different segments based on their CLV scores. Further segment users based on demographic data, usage patterns, and service plans.
 - Segment Profiling and Strategy Formulation: Understand the unique traits that define each segment and decide the kind of attention each segment requires. Develop personalized marketing and communication strategies for each segment. 
   - This may include special offers, targeted promotions, or exclusive services that resonate with the preferences and behaviors of each group.
- 
+
+## Data Cleaning:
+
+![](Data_Cl.PNG)
 
 ## Exploratory Data Analysis
 
@@ -74,9 +77,21 @@ PostgreSQL is used for data manipulation and analysis.
 
 - Analysis and Interpretation
 
+![](EDA1.PNG)
+
+![](EDA2_churnByplan.PNG)
+
+![](EDA3_TenByplan.PNG)
+
 ## ANALYSIS AND INSIGHTS:
 
-![](imagesat_l.jpg):
+![](imagesat_l.jpg)
+
+### CLV SEGMENTATION:
+
+![](EDA4_CLV.PNG)
+
+![](EDA5_CLV.PNG)
 
 ## RECOMMENDATION AND CONCLUSIONS:
 
