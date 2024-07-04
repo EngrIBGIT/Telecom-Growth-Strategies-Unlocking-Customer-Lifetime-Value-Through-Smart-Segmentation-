@@ -97,7 +97,7 @@ PostgreSQL is used for data manipulation and analysis.
 
 
 
-![](imagesat_l.jpg):   
+![](images3.jpg):   
 
 
 
