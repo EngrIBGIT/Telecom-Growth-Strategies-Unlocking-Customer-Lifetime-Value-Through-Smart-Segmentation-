@@ -93,6 +93,11 @@ PostgreSQL is used for data manipulation and analysis.
 
 ![](EDA5_CLV.PNG)
 
+
+## The Below Link is The code showing the analysis and insights
+
+https://github.com/EngrIBGIT/Telecom-Growth-Strategies-Unlocking-Customer-Lifetime-Value-Through-Smart-Segmentation-/blob/main/Telecom_Growth_Strategies_Unlocking_CLV_Seg.sql
+
 ## RECOMMENDATION AND CONCLUSIONS:
 
 
